@@ -1,17 +1,3 @@
-:::thinking
-The user wants me to create a comprehensive README for their gomobile Docker image. I need to create a complete README that includes:
-
-1. Description of what the image does
-2. Features/benefits
-3. Installation/building instructions
-4. Usage examples
-5. API level explanations
-6. Troubleshooting
-7. Examples with different scenarios
-8. Contributing/license info
-
-I should make it professional and comprehensive since it's going on GitHub.
-:::
 # Gomobile Docker Build Environment
 
 A complete Docker-based build environment for creating Android libraries from Go code using Google's `gomobile` tool. This image provides a consistent, reproducible environment for cross-compiling Go applications to Android AAR libraries.
